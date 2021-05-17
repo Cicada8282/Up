@@ -1,4 +1,4 @@
-![](app/assets/images/logo.jpg) <br>
+![](app/assets/images/logo.jpg)
 # Up
 Up is an entertain website. Guest can view bunch of different format of fun stuff. People can also make an account to utilize more features such as add posts, comment to another post. 
 
